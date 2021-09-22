@@ -36,3 +36,9 @@ Besides the creation of features that helped improving the solution, the differe
 * I've done post processing setting 30 inventory days to the skus which stock were too big considering the sales on the previous months
 
 I tryed different distributions, but in the end, tweedie was the best one to calculate the submissions.
+
+#### Instructions to run the code
+
+It's a MONOLITH :)
+
+Just run the whole notebook to the end. The files will be downloaded in './data' folder. 
